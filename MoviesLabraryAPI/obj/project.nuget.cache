@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMfGrfmXeLUVlPpa2D6NZiaS9qv/wGrCUZa2PIb1gPCTv2qmRFxTy2Y9x2E/uPY20nVrwa+RsjtQkCjznKWtaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amitc\\OneDrive\\שולחן העבודה\\softwave\\MoviesLabraryAPI\\MoviesLabraryAPI\\MoviesLibraryAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amitc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\amitc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\amitc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\amitc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\amitc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\amitc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
